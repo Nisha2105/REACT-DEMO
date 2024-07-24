@@ -1,0 +1,160 @@
+.posts{
+    font-size: 23px;
+    font-weight: 600px;
+    position: relative;
+    margin-top: -30px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 230px;
+}
+.card{
+    height: 340px;
+    width: 300px;
+    background:#FFFFFF ;
+    /* margin: 0 auto; */
+    margin-right: 15px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px rgba(157, 156, 156, 0.1);
+    flex-wrap: wrap;
+}
+.img1{
+    width: 300px;
+    height: 200px;
+    position: relative;
+    top: -8px;
+    left: -19px;
+    /* top: 17px;
+    left: 18px;
+    gap: 0px; */
+    border-radius: 12.6px ;
+    opacity: 0px;
+}
+hr{
+    position: relative;
+    top: 50px;
+    border:1px solid #ECECEC;
+    width: 305px;
+    /* margin-left: 18.5px; */
+}
+.card1{
+    width: 310px;
+    height: 50px;
+    position: relative;
+    top: 27px;
+    /* left: 18px; */
+    gap: 0px;
+    opacity: 0px;
+    Name: 20 px - Sub Heading 2;
+    font-family: Plus Jakarta Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25.2px;
+    text-align: left;
+}
+.pic{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    display: flex;
+    position: relative;
+    /* margin-left: 18px ; */
+    top: 68px;
+}
+.pic-text{
+    position: relative;
+    top: 35px;
+    margin-left: 40px;
+    Name: 16 px - Paragraph 3 Semi bold;
+    font-family: Plus Jakarta Sans;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20.16px;
+    text-align: left;
+}
+.pic-text2{
+    position: relative;
+    top: 35px;
+    margin-left: 40px;
+    Name: 14 px - Paragraph 4;
+    font-family: Plus Jakarta Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.64px;
+    text-align: left;
+    color: #797979;
+}
+.heart{
+    width: 12px;
+    height: 10px;
+    font-size: 16px;
+    top: 18px;
+    left: 60px;
+    gap: 0px;
+    opacity: 0px;
+    color: #A5A5A5;
+}
+.likes{
+    position: relative;
+    top: 8px;
+    left: 170px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15.12px;
+    text-align: left;
+    color: #787878;
+}
+.comment{
+    width: 15px;
+    height: 13px;
+    font-size: 17px;
+    top: -7px;
+    left: 115px;
+    gap: 0px;
+    opacity: 0px;
+    color: #A5A5A5;
+}
+.comments{
+    position: relative;
+    top: -20px;
+    left: 225px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 15.12px;
+    text-align: left;
+    color: #787878;
+}
+.card2{
+    width: 310px;
+    height: 50px;
+    position: relative;
+    top: 27px;
+    /* left: 18px; */
+    gap: 0px;
+    opacity: 0px;
+    Name: 20 px - Sub Heading 2;
+    font-family: Plus Jakarta Sans;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25.2px;
+    text-align: left;
+}
+.card3{
+    width: 310px;
+    height: 50px;
+    position: relative;
+    top: 27px;
+    /* left: 18px; */
+    gap: 0px;
+    opacity: 0px;
+    Name: 20 px - Sub Heading 2;
+    font-family: Plus Jakarta Sans;
+    font-size: 20px;
+    line-height: 25.2px;
+    font-weight: 700;
+    text-align: left;
+}

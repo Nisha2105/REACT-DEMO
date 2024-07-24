@@ -1,0 +1,83 @@
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    height: 140px;
+    margin-top: 30px;
+    box-shadow: 1px 2px 4px 1px rgba(60,60,60,0.2);
+    margin-left: -30px;
+    margin-right: 80px;
+}
+.blog{
+    color: rgb(197, 12, 12);
+    position: relative;
+    top: -15px;
+    margin-left: 170px;
+}
+.para{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 22px;
+}
+.cat{
+    font-weight: 700;
+    line-height: 20.16px;
+    margin-left: 80px;
+    font-size: 16px;
+}
+.list{
+    position: relative;
+    top: 25px;
+    line-height: 22px;
+}
+.get{
+    font-weight: 700;
+    line-height: 20.16px;
+    margin-left: 80px;
+    font-size: 16px;
+}
+.contact{
+    position: relative;
+    top: 25px;
+    line-height: 22px;
+}
+.us{
+    font-weight: 700;
+    line-height: 20.16px;
+    text-align: justified;
+    margin-right: 90px;
+    font-size: 16px;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 100px 0px 105px;
+    position: relative;
+    top: 29px;
+    font-size:19px ;
+}
+.footer{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white ;
+    margin-top: 2px;
+    margin-left: -30px;
+    margin-right: 80px;
+}
+.copyright{
+    font-weight: 400;
+    line-height: 17.64px;
+    text-align: justified;
+    color: #2B2C34;
+    margin: 13px 90px;
+    font-size: 14px;
+}
+.made{
+    font-weight: 400;
+    line-height: 16.38px;
+    text-align: justified;
+    color: #2B2C34;
+    margin: 13px 90px;
+    font-size: 13px;
+}

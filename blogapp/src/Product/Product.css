@@ -1,0 +1,15 @@
+.products{
+    display: flex;
+    justify-content: space-between;
+} 
+.card{
+    height: 300px;
+    width: 300px;
+    background:#ecd0fa ;
+    margin: 20px;
+    margin-right: 15px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px rgba(157, 156, 156, 0.6);
+    flex-wrap: wrap;
+}
